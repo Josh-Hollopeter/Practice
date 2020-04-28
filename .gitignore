@@ -15,3 +15,11 @@ target/
 *.iws
 *.iml
 *.ipr
+
+### Eclipse ###
+.DS_Store
+Servers
+target
+build
+bin
+.metadata
